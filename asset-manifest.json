@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TSPVisualizer/static/css/main.19f31b0e.css",
+    "main.js": "/TSPVisualizer/static/js/main.0005c47b.js",
+    "static/js/787.9ebce302.chunk.js": "/TSPVisualizer/static/js/787.9ebce302.chunk.js",
+    "index.html": "/TSPVisualizer/index.html",
+    "main.19f31b0e.css.map": "/TSPVisualizer/static/css/main.19f31b0e.css.map",
+    "main.0005c47b.js.map": "/TSPVisualizer/static/js/main.0005c47b.js.map",
+    "787.9ebce302.chunk.js.map": "/TSPVisualizer/static/js/787.9ebce302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f31b0e.css",
+    "static/js/main.0005c47b.js"
+  ]
+}
