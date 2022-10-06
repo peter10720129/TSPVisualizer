@@ -1,0 +1,2 @@
+C:\TspVisualizer\Tspvisualizer\Tspvisualizer\obj\Debug\tspvisualizer.esproj.SuggestedBindingRedirects.cache
+C:\TspVisualizer\Tspvisualizer\Tspvisualizer\obj\Debug\tspvisualizer.esproj.CoreCompileInputs.cache
